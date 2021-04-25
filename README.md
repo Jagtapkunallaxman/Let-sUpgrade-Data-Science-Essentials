@@ -1,1 +1,1 @@
-# Let-sUpgrade-Data-Science-Essentials
+# LetsUpgrade Essentials + Advance Data Science
